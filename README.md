@@ -5,6 +5,7 @@ The NGO `Global Ecovillage Network of Ukraine` was founed in 2018 to unite diffe
 
 It was inspired by the European network of ecovillages GEN Europe.
 
+![photo_2024-05-20 13 26 56](https://github.com/genukraine/.github/assets/132265629/d0d40983-db89-4c6c-ab6e-c6b7c601e222)
  
 
 The mission of GEN Ukraine is to unite and support the development of ecovillages and other sustainable communities in Ukraine in order to spread ecological values and the philosophy of a conscious life in society.
